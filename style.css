@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+
+}
+
+button{
+    text-align: right;    
+}
+
+p, h1{
+    padding-left: 20%;
+    padding-right: 20%;
+}
